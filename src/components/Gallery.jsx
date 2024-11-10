@@ -19,7 +19,7 @@ const Gallery = () => {
         <img className='rounded-lg h-60 w-52 object-cover' src="https://images.news18.com/ibnlive/uploads/2017/12/Cristiano-Ronaldo-holding-the-Ballon-d-Or.jpg?impolicy=website&width=875&height=0" alt="" />
         <img className='rounded-lg h-60 w-52 object-cover' src="https://cdn.images.express.co.uk/img/dynamic/67/590x/secondary/Cristiano-Ronaldo-CWC-trophy-760429.jpg?r=1686998680160" alt="" />
         <img className='rounded-lg h-60 w-52 object-cover' src="https://i.postimg.cc/wvn0S7xh/2.jpg" alt="" />
-        <img className='rounded-lg h-60 w-52 object-cover' src="https://i.postimg.cc/SsXp62t8/Ronny-1.jpg" alt="" />
+        <img className='rounded-lg h-60 w-52 object-cover' src="https://i.postimg.cc/p2CXtKf0/Ronny-1.jpg" alt="" />
         <img className='rounded-lg h-60 w-52 object-cover' src="https://i.postimg.cc/fR3jhMFC/Ronny-2.jpg" alt="" />
         <img className='rounded-lg h-60 w-52 object-cover' src="https://i.postimg.cc/MKBpk45R/Ronny-2.png" alt="" />
         <img className='rounded-lg h-60 w-52 object-cover' src="https://i.postimg.cc/cv0rK7cQ/Ronny-10.jpg" alt="" />
