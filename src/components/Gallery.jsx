@@ -70,7 +70,7 @@ const Gallery = () => {
         <img className='rounded-lg h-60 w-52 object-cover' src="https://www.espn.com/photo/2024/0920/r1389396_1296x729_16-9.jpg" alt="" />
         <img className='rounded-lg h-60 w-52 object-cover' src="https://i.postimg.cc/8zKpLSP2/Ronny-52.jpg" alt="" />
         <img className='rounded-lg h-60 w-52 object-cover' src="https://i.postimg.cc/XvtnDk5x/Ronny-53.jpg" alt="" />
-        <img className='rounded-lg h-60 w-52 object-cover' src="https://i.postimg.cc/DJBtghVv/Ronny-54.jpg" alt="" />
+        <img className='rounded-lg h-60 w-52 object-cover' src="https://i.postimg.cc/4y64cHmP/Ronny-49.jpg" alt="" />
          <img className='rounded-lg h-60 w-52 object-cover' src="https://i.postimg.cc/rskMqyQr/Ronny-54.jpg" alt="" />
          <img className='rounded-lg h-60 w-52 object-cover' src="https://i.postimg.cc/prJxrN61/Ronny-55.jpg" alt="" />
          <img className='rounded-lg h-60 w-52 object-cover' src="https://i.postimg.cc/SRNC14CW/Ronny-6.jpg" alt="" />
