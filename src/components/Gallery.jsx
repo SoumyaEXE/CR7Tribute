@@ -75,7 +75,7 @@ const Gallery = () => {
          <img className='rounded-lg h-60 w-52 object-cover' src="https://i.postimg.cc/dZ3gNfv8/Ronny-55.jpg" alt="" />
          <img className='rounded-lg h-60 w-52 object-cover' src="https://i.postimg.cc/r03Dzvhm/Ronny-6.jpg" alt="" />
          <img className='rounded-lg h-60 w-52 object-cover' src="https://i.postimg.cc/SjYXHxsz/Ronny-7.jpg" alt="" />
-         <img className='rounded-lg h-60 w-52 object-cover' src="https://i.postimg.cc/7fg5YtSH/Ronny-8.jpg" alt="" />
+         <img className='rounded-lg h-60 w-52 object-cover' src="https://i.postimg.cc/zXQK79Bg/Ronny-8.jpg" alt="" />
          <img className='rounded-lg h-60 w-52 object-cover' src="https://i.postimg.cc/MTzQXwsh/Ronny-9.jpg" alt="" />
       </div>
     </section>
