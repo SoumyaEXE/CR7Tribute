@@ -68,6 +68,14 @@ const Gallery = () => {
         <img className='rounded-lg h-60 w-52 object-cover' src="https://i.postimg.cc/hJqW4MbB/Ronny-50.jpg" alt="" />
         <img className='rounded-lg h-60 w-52 object-cover' src="https://i.postimg.cc/N5SvSQKL/Ronny-51.jpg" alt="" />
         <img className='rounded-lg h-60 w-52 object-cover' src="https://www.espn.com/photo/2024/0920/r1389396_1296x729_16-9.jpg" alt="" />
+        <img className='rounded-lg h-60 w-52 object-cover' src="https://i.postimg.cc/v4nwdCnh/Ronny-52.jpg" alt="" />
+        <img className='rounded-lg h-60 w-52 object-cover' src="https://i.postimg.cc/Ny7hKTpr/Ronny-53.jpg" alt="" />
+        <img className='rounded-lg h-60 w-52 object-cover' src="https://i.postimg.cc/DJBtghVv/Ronny-54.jpg" alt="" />
+         <img className='rounded-lg h-60 w-52 object-cover' src="https://i.postimg.cc/DJBtghVv/Ronny-54.jpg" alt="" />
+         <img className='rounded-lg h-60 w-52 object-cover' src="https://i.postimg.cc/dZ3gNfv8/Ronny-55.jpg" alt="" />
+         <img className='rounded-lg h-60 w-52 object-cover' src="https://i.postimg.cc/r03Dzvhm/Ronny-6.jpg" alt="" />
+         <img className='rounded-lg h-60 w-52 object-cover' src="https://i.postimg.cc/SjYXHxsz/Ronny-7.jpg" alt="" />
+         <img className='rounded-lg h-60 w-52 object-cover' src="https://i.postimg.cc/7fg5YtSH/Ronny-8.jpg" alt="" />
       </div>
     </section>
   )
