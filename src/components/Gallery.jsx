@@ -43,14 +43,14 @@ const Gallery = () => {
         <img className='rounded-lg h-60 w-52 object-cover' src="https://i.postimg.cc/HxCsqjSc/Ronny-29.jpg" alt="" />
         <img className='rounded-lg h-60 w-52 object-cover' src="https://i.postimg.cc/hg2BN3HX/Ronny-3.jpg" alt="" />
         <img className='rounded-lg h-60 w-52 object-cover' src="https://i.postimg.cc/vZNvtw0S/Ronny-3.png" alt="" />
-        <img className='rounded-lg h-60 w-52 object-cover' src="https://i.postimg.cc/Fd5tRpyv/Ronny-30.jpg" alt="" />
-        <img className='rounded-lg h-60 w-52 object-cover' src="https://i.postimg.cc/CR2pySdz/Ronny-31.jpg" alt="" />
-        <img className='rounded-lg h-60 w-52 object-cover' src="https://i.postimg.cc/sGmbTRtf/Ronny-32.jpg" alt="" />
-        <img className='rounded-lg h-60 w-52 object-cover' src="https://i.postimg.cc/ftxG0dC9/Ronny-33.jpg" alt="" />
-        <img className='rounded-lg h-60 w-52 object-cover' src="https://i.postimg.cc/K3xd7Yps/Ronny-34.jpg" alt="" />
+        <img className='rounded-lg h-60 w-52 object-cover' src="https://i.postimg.cc/C5pWmqx5/Ronny-30.jpg" alt="" />
+        <img className='rounded-lg h-60 w-52 object-cover' src="https://i.postimg.cc/wTvknBRj/Ronny-31.jpg" alt="" />
+        <img className='rounded-lg h-60 w-52 object-cover' src="https://i.postimg.cc/k7WyZLB8/Ronny-32.jpg" alt="" />
+        <img className='rounded-lg h-60 w-52 object-cover' src="https://i.postimg.cc/qvmqSkn4/Ronny-33.jpg" alt="" />
+        <img className='rounded-lg h-60 w-52 object-cover' src="https://i.postimg.cc/vQzCR4cW/Ronny-35.jpg" alt="" />
         <img className='rounded-lg h-60 w-52 object-cover' src="https://i.postimg.cc/8sG5XBqx/Ronny-35.jpg" alt="" />
-        <img className='rounded-lg h-60 w-52 object-cover' src="https://i.postimg.cc/V5FNx0wv/Ronny-36.jpg" alt="" />
-        <img className='rounded-lg h-60 w-52 object-cover' src="https://i.postimg.cc/3dJwYrrB/Ronny-37.jpg" alt="" />
+        <img className='rounded-lg h-60 w-52 object-cover' src="https://i.postimg.cc/gp4rs4k0/Ronny-36.jpg" alt="" />
+        <img className='rounded-lg h-60 w-52 object-cover' src="https://i.postimg.cc/BskS7zWJ/Ronny-37.jpg" alt="" />
         <img className='rounded-lg h-60 w-52 object-cover' src="https://i.postimg.cc/sMbfYpY6/Ronny-38.jpg" alt="" />
         <img className='rounded-lg h-60 w-52 object-cover' src="https://i.postimg.cc/gr090xRn/Ronny-39.jpg" alt="" />
         <img className='rounded-lg h-60 w-52 object-cover' src="https://i.postimg.cc/hKmc95kY/Ronny-4.jpg" alt="" />
